@@ -1,17 +1,17 @@
-<h1 align="center">Sup, I'm Gary</h1>
-<h3 align="center">A </h3>
+<h1 align="center">Sup 👋, I'm Gary</h1>
+<h3 align="center">Full Stack Developer, focused on the job hunt atm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gary-rivera&label=Profile%20views&color=0e75b6&style=plastic" alt="gary-rivera" /> </p>
 
-- 🔭 I’m actively working on [ruio](https://github.com/gary-rivera/ruio) and getting it stable.
+- 🔭 I’m actively working on [ruio](https://github.com/gary-rivera/ruio), my side project React UI dev tool.
 
 - 🌱 I’m currently learning **AI, Machine Learning, and refining UI dev tools**
 
 - 💬 Ask me about **mechanical keyboards or cats**
 
-- 👨‍💻 Peep out my portfolio at [https://garyrivera.me/](https://garyrivera.me/)
+- 👨‍💻 Peep out my portfolio at: [https://garyrivera.me/](https://garyrivera.me/)
 
-- 📫 Reach me at **a.gary.rivera@gmail.com**
+- 📫 Reach me at: **a.gary.rivera@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
