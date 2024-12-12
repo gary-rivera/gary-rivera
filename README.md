@@ -1,5 +1,5 @@
-<h1 align="center">Sup 👋, I'm Gary</h1>
-<h3 align="center">Full Stack Developer, focused on the job hunt atm</h3>
+<p style="font-weight: 900; font-size: 48px; margin: 0;">Sup</p>
+<span font-weight="600">Full Stack Developer</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gary-rivera&label=Profile%20views&color=0e75b6&style=plastic" alt="gary-rivera" /> </p>
 
