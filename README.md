@@ -1,20 +1,4 @@
-<p style="font-weight: 900; font-size: 48px; margin: 0;">Sup</p>
-<span font-weight="600">Full Stack Developer</span>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gary-rivera&label=Profile%20views&color=0e75b6&style=plastic" alt="gary-rivera" /> </p>
-
-- 🔭 I’m actively working on [ruio](https://github.com/gary-rivera/ruio), my side project React UI dev tool.
-
-- 🌱 I’m currently learning **AI, Machine Learning, and refining UI dev tools**
-
-- 💬 Ask me about **mechanical keyboards or cats**
-
-- 👨‍💻 Peep out my portfolio at: [https://garyrivera.me/](https://garyrivera.me/)
-
-- 📫 Reach me at: **a.gary.rivera@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/grivera__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grivera__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gary-a-rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gary-a-rivera" height="30" width="40" /></a>
